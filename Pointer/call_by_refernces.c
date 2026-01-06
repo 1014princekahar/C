@@ -1,6 +1,5 @@
-// #include <stdio.h>
-// #include <stdlib.h>
-#include "/home/prince-kahar/all.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 
 void show(int *p, int *q)

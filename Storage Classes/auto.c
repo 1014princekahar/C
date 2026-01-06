@@ -1,6 +1,5 @@
-// #include<stdio.h>
-// #include<stdlib.h>
-#include "/home/prince-kahar/Prince/Sem-2 C/all.h"
+#include<stdio.h>
+#include<stdlib.h>
 int main() {
     system("clear");
     auto int a;

@@ -3,7 +3,7 @@
 
 int main() { 
 
-    char str[100] = "DigiKing" ;
+    char str[100] = "Hello World" ;
     int i , len ;
     for ( i = 0 ; str[i] !='\0' ; i++ ) {
         len++;

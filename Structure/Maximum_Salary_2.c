@@ -18,7 +18,6 @@ int main()
         getchar();
         printf("Enter Employee %d Name : ", i + 1);
         fgets(e[i].name, sizeof(e[i].name), stdin);
-        // getchar();
         printf("Enter Employee %d Salary : ", i + 1);
         scanf("%f", &e[i].salary);
     }
