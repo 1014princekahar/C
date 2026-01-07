@@ -7,7 +7,7 @@ int main()
     system("clear");
     f = fopen("text3.txt", "r");
 
-    while(fgets(f,100,f)!= NULL)
-        printf("%c",ch);
+    while(fgets(ch,100,f)!= NULL)
+        printf("%s",ch);
     return 0;
 }
