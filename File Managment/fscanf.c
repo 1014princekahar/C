@@ -11,8 +11,6 @@ int main()
     else
     {
         printf("file is open\n");
-        // fputc('A',f);
-
         fscanf(f, "%d %s %f", &roll, name, &marks);
         printf("%d %s %.2f", roll, name, marks);
     }
