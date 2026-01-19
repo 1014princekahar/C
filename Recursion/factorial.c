@@ -13,7 +13,6 @@ int main()
 
 int factorial(int number)
 {
-    int fact = 1;
     if (number == 1)
         return 1;
     return number * factorial(number - 1);
