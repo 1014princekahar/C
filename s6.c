@@ -9,7 +9,7 @@ int main()
 {
     int i,m1=0;
     for(i=0;i<5;i++)
-    {
+    {nbjmn
         printf("Enter your emp id, name, salary : ");
         scanf("\n%d %s %f",&e[i].emp_id,e[i].name,&e[i].salary);
     }
